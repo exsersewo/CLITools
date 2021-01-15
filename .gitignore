@@ -1,0 +1,7 @@
+netling/
+*.exe
+*.hlp
+*.a
+*.lib
+*.dll
+*.lnk
